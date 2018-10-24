@@ -1,0 +1,8 @@
+{
+  "name": "sitegen-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hogelog <konbu.komuro@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
