@@ -23,11 +23,16 @@ GEM
       aws-sdk-kms (~> 1)
       aws-sigv4 (~> 1.0)
     aws-sigv4 (1.0.3)
+    coderay (1.1.2)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
     jmespath (1.4.0)
+    method_source (0.9.0)
     mini_mime (1.0.0)
+    pry (0.11.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
     s3-website-deploy (0.1.0)
       aws-sdk-s3 (< 2)
       mini_mime
@@ -38,6 +43,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  pry
   s3-website-deploy
   sitegen!
 
