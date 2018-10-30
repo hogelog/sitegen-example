@@ -1,3 +1,5 @@
 node_modules/.yarn-integrity
 build/
 tmp/
+.cache/
+node_modules/

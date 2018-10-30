@@ -4,5 +4,11 @@
   "main": "index.js",
   "author": "hogelog <konbu.komuro@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "sass": "^1.14.3"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.7"
+  }
 }
